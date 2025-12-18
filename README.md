@@ -1,5 +1,5 @@
 # Blenders-models/2D Graphics
-🧱 3D Models – Blender (Game Assets)
+3D Models – Blender (Game Assets)
 
 Repozytorium zawiera modele 3D wykonane w programie Blender, przygotowane jako asset’y do gier komputerowych.
 Modele zostały opracowane z myślą o wykorzystaniu w silnikach Unreal Engine / Unity.
@@ -28,7 +28,7 @@ Model potwora skalnego wykonany w ramach projektu uczelnianego.
 Projekt skupiał się na stworzeniu masywnej, czytelnej sylwetki oraz charakterystycznej formy wizualnej. Model stanowi bazę pod dalsze etapy pracy, takie jak teksturowanie, rigging lub animacja.
 <img width="623" height="530" alt="image" src="https://github.com/user-attachments/assets/ae4f6223-4467-40ec-916b-674400ea8525" />
 
-🎨 Grafiki 2D – Dywany do gry
+ Grafiki 2D – Dywany do gry
 Wzory dywanów (3 warianty kolorystyczne)
 
 Zestaw graficznych wzorów dywanów wykonanych podczas praktyk zawodowych na potrzeby gry komputerowej.
