@@ -5,7 +5,7 @@ Repozytorium zawiera modele 3D wykonane w programie Blender, przygotowane jako a
 Modele zostały opracowane z myślą o wykorzystaniu w silnikach Unreal Engine / Unity.
 1. Latarnia
 Model latarni wykonany podczas praktyk zawodowych jako asset środowiskowy do gry komputerowej.
-Proces obejmował stworzenie geometrii high poly, następnie retopologię do wersji low poly, bevelowanie krawędzi oraz przygotowanie map UV i tekstur. Model został zoptymalizowany pod wykorzystanie w silniku gry i dostosowany do stylistyki projektu.
+Proces obejmował stworzenie geometrii high poly, następnie retopologię do wersji low poly, bevelowanie krawędzi. Model został zoptymalizowany pod wykorzystanie w silniku gry i dostosowany do stylistyki projektu.
 <img width="595" height="618" alt="image" src="https://github.com/user-attachments/assets/5d5ef99a-df41-4df9-aecb-4b37396309e2" />
 
 2. Książka
