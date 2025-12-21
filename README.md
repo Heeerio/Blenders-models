@@ -1,8 +1,5 @@
 # Blenders-models/2D Graphics
-3D Models – Blender (Game Assets)
 
-Repozytorium zawiera modele 3D wykonane w programie Blender, przygotowane jako asset’y do gier komputerowych.
-Modele zostały opracowane z myślą o wykorzystaniu w silnikach Unreal Engine / Unity.
 1. Latarnia
 Model latarni wykonany podczas praktyk zawodowych jako asset środowiskowy do gry komputerowej.
 Proces obejmował stworzenie geometrii high poly, następnie retopologię do wersji low poly, bevelowanie krawędzi. Model został zoptymalizowany pod wykorzystanie w silniku gry i dostosowany do stylistyki projektu.
